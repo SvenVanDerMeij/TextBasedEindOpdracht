@@ -174,7 +174,7 @@ if (stage == 16) {
 if (stage == 17) {
     console.log("Burger king patat is zo smerig dat je dood neervalt")
     Ending1 = 1
-    endings = Ending1 + Ending2 + Ending3 + Ending
+    endings = Ending1 + Ending2 + Ending3 + Ending4
     console.log("gefeliciteerd, je hebt het burger king patat einde bereikt, je hebt nu " + endings + " van de 4 eindes gehaald, ik weet niet wat ik van dit einde vind, jij weet waarschijnlijk ook niet wat je ervan moet vinden, maar hey, je hebt hem, je bent 25% dichterbij, en dit kan ik zeggen, want ik durf te wedden dat dit niet het laatste einde is dat je hebt gehaald, ik ben ff gaan rekenen, de kans dat je dit einde als laatste krijgt is 4,16%, denk ik tenminste, ik heb dit in 1 minuut gedaan uit mijn hoofd, idk.")
     stage = 0
 }
